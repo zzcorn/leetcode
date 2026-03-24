@@ -1,0 +1,1 @@
+Return the number of good leaf node pairs in the tree.
